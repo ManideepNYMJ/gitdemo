@@ -1,2 +1,4 @@
 This is bbb file
 This is newly entered data in the bbb file
+
+after comminting 
